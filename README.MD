@@ -1,4 +1,6 @@
 # [/u/RiskyClickerBot](http://reddit.com/u/RiskyClickerBot) for Reddit
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FSreenivasVRao%2FRiskyClickerBot.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FSreenivasVRao%2FRiskyClickerBot?ref=badge_shield)
+
 
 A quick rundown of what the bot does is [here.](https://medium.com/@sreenivasvrao/introducing-u-riskyclickerbot-22b3d56d1e2a)
 
@@ -34,3 +36,6 @@ Running the bot on Heroku is possible by using the `--heroku` switch. However, R
 # License
 TBD
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FSreenivasVRao%2FRiskyClickerBot.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FSreenivasVRao%2FRiskyClickerBot?ref=badge_large)
